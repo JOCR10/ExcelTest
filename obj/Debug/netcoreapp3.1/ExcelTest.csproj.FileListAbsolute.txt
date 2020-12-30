@@ -1,0 +1,14 @@
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\ExcelTest.exe
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\ExcelTest.deps.json
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\ExcelTest.runtimeconfig.json
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\ExcelTest.runtimeconfig.dev.json
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\ExcelTest.dll
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\ExcelTest.pdb
+D:\Pruebas Técnicas\ExcelTest\obj\Debug\netcoreapp3.1\ExcelTest.csprojAssemblyReference.cache
+D:\Pruebas Técnicas\ExcelTest\obj\Debug\netcoreapp3.1\ExcelTest.AssemblyInfoInputs.cache
+D:\Pruebas Técnicas\ExcelTest\obj\Debug\netcoreapp3.1\ExcelTest.AssemblyInfo.cs
+D:\Pruebas Técnicas\ExcelTest\obj\Debug\netcoreapp3.1\ExcelTest.dll
+D:\Pruebas Técnicas\ExcelTest\obj\Debug\netcoreapp3.1\ExcelTest.pdb
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\Resources\MOCK_DATA.csv
+D:\Pruebas Técnicas\ExcelTest\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Pruebas Técnicas\ExcelTest\obj\Debug\netcoreapp3.1\ExcelTest.csproj.CopyComplete
